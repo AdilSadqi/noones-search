@@ -73,7 +73,7 @@ IRC
   which is bridged to Matrix.
 
 Matrix
-  `#searxng:matrix.org <https://www.asadqi.com/advanced-search-guide-noones-eu-org/>`_
+  `#Mastering Search on Noones.eu.org <https://www.asadqi.com/advanced-search-guide-noones-eu-org/>`_
 
 
 Setup
