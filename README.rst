@@ -14,7 +14,7 @@ Privacy-respecting, hackable `metasearch engine`_
 
 NoOnes.eu.org_ ready-to-use running instances.
 
-A user_, admin_ and developer_ handbook is available on the homepage_.
+A developer_ handbook is available on the homepage_.
 
 |SearXNG install|
 |SearXNG homepage|
@@ -27,11 +27,11 @@ A user_, admin_ and developer_ handbook is available on the homepage_.
 
 ----
 
-.. _searx.space: https://searx.space
-.. _user: https://docs.searxng.org/user
-.. _admin: https://docs.searxng.org/admin
-.. _developer: https://docs.searxng.org/dev
-.. _homepage: https://docs.searxng.org/
+.. _NoOnes.eu.org: https://noones.eu.org/
+.. _user: https://asadqi.com
+.. _admin: https://asadqi.com
+.. _developer: https://asadqi.com/
+.. _homepage: https://noones.eu.org/
 .. _metasearch engine: https://en.wikipedia.org/wiki/Metasearch_engine
 
 .. |SearXNG logo| image:: https://raw.githubusercontent.com/searxng/searxng/master/client/simple/src/brand/searxng-wordmark.svg
