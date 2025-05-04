@@ -88,14 +88,14 @@ Setup
 .. _Administrator documentation: https://docs.searxng.org/admin/index.html
 .. _Step by step: https://docs.searxng.org/admin/installation-searxng.html
 .. _installation scripts: https://docs.searxng.org/admin/installation-scripts.html
-.. _Docker image: https://github.com/searxng/searxng-docker
+.. _Docker image: https://github.com/AdilSadqi/noones-docker
 
 Translations
 ============
 
 .. _Weblate: https://translate.codeberg.org/projects/searxng/searxng/
 
-Help translate SearXNG at `Weblate`_
+Help translate NoOnes at `Weblate`_
 
 .. figure:: https://translate.codeberg.org/widgets/searxng/-/multi-auto.svg
    :target: https://translate.codeberg.org/projects/searxng/
@@ -104,8 +104,8 @@ Help translate SearXNG at `Weblate`_
 Contributing
 ============
 
-.. _development quickstart: https://docs.searxng.org/dev/quickstart.html
-.. _developer documentation: https://docs.searxng.org/dev/index.html
+.. _development quickstart: https://github.com/AdilSadqi/noones-search
+.. _developer documentation: https://asadqi.com/
 
 Are you a developer?  Have a look at our `development quickstart`_ guide, it's
 very easy to contribute.  Additionally we have a `developer documentation`_.
@@ -125,6 +125,6 @@ You can contribute from your browser using `GitHub Codespaces`_:
 - You have `120 hours per month`_ (see also your `list of existing Codespaces`_)
 - You can start SearXNG using ``make run`` in the terminal or by pressing ``Ctrl+Shift+B``
 
-.. _GitHub Codespaces: https://docs.github.com/en/codespaces/overview
-.. _120 hours per month: https://github.com/settings/billing
-.. _list of existing Codespaces: https://github.com/codespaces
+.. _GitHub Codespaces: https://github.com/AdilSadqi/noones-search
+.. _120 hours per month: https://github.com/AdilSadqi/noones-searchhttps://github.com/settings/billing
+.. _list of existing Codespaces: https://github.com/AdilSadqi/noones-search
