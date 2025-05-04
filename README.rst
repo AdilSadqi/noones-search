@@ -2,8 +2,8 @@
 
 ----
 
-.. figure:: https://raw.githubusercontent.com/searxng/searxng/master/client/simple/src/brand/searxng.svg
-   :target: https://docs.searxng.org/
+.. figure:: https://github.com/AdilSadqi/noones-search/blob/master/searx/static/themes/simple/img/searxng.svg
+   :target: https://noones.eu.org/
    :alt: SearXNG
    :width: 100%
    :align: center
@@ -12,7 +12,7 @@
 
 Privacy-respecting, hackable `metasearch engine`_
 
-Searx.space_ lists ready-to-use running instances.
+NoOnes.eu.org_ ready-to-use running instances.
 
 A user_, admin_ and developer_ handbook is available on the homepage_.
 
