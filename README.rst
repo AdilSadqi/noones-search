@@ -72,8 +72,11 @@ IRC
   `#noones on libera.chat <https://web.libera.chat/?channel=#searxng>`_
   which is bridged to Matrix.
 
-Matrix
+Mastering
   `#Mastering Search on Noones.eu.org <https://www.asadqi.com/advanced-search-guide-noones-eu-org/>`_
+
+Web
+  `#Direct Contact <https://www.asadqi.com/#contact>`_
 
 
 Setup
