@@ -66,14 +66,14 @@ A developer_ handbook is available on the homepage_.
 Contact
 =======
 
-Ask questions or chat with the SearXNG community (this not a chatbot) on
+Ask questions or chat with the NoOnes community (this not a chatbot) on
 
 IRC
-  `#searxng on libera.chat <https://web.libera.chat/?channel=#searxng>`_
+  `#noones on libera.chat <https://web.libera.chat/?channel=#searxng>`_
   which is bridged to Matrix.
 
 Matrix
-  `#searxng:matrix.org <https://matrix.to/#/#searxng:matrix.org>`_
+  `#searxng:matrix.org <https://www.asadqi.com/advanced-search-guide-noones-eu-org/>`_
 
 
 Setup
