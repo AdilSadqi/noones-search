@@ -31,7 +31,7 @@ A developer_ handbook is available on the homepage_.
 .. _user: https://asadqi.com
 .. _admin: https://asadqi.com
 .. _developer: https://asadqi.com/
-.. _homepage: https://noones.eu.org/
+.. _homepage: https://github.com/AdilSadqi/noones-search/blob/master/README.rst
 .. _metasearch engine: https://en.wikipedia.org/wiki/Metasearch_engine
 
 .. |SearXNG logo| image:: https://raw.githubusercontent.com/searxng/searxng/master/client/simple/src/brand/searxng-wordmark.svg
@@ -39,28 +39,28 @@ A developer_ handbook is available on the homepage_.
    :width: 5%
 
 .. |SearXNG install| image:: https://img.shields.io/badge/-install-blue
-   :target: https://docs.searxng.org/admin/installation.html
+   :target: https://github.com/AdilSadqi/noones-search
 
 .. |SearXNG homepage| image:: https://img.shields.io/badge/-homepage-blue
-   :target: https://docs.searxng.org/
+   :target: https://noones.eu.org
 
 .. |SearXNG wiki| image:: https://img.shields.io/badge/-wiki-blue
-   :target: https://github.com/searxng/searxng/wiki
+   :target: https://github.com/AdilSadqi/noones-search
 
 .. |AGPL License|  image:: https://img.shields.io/badge/license-AGPL-blue.svg
    :target: https://github.com/searxng/searxng/blob/master/LICENSE
 
 .. |Issues| image:: https://img.shields.io/github/issues/searxng/searxng?color=yellow&label=issues
-   :target: https://github.com/searxng/searxng/issues
+   :target: https://github.com/AdilSadqi/noones-search
 
 .. |PR| image:: https://img.shields.io/github/issues-pr-raw/searxng/searxng?color=yellow&label=PR
-   :target: https://github.com/searxng/searxng/pulls
+   :target: https://github.com/AdilSadqi/noones-search.git
 
 .. |commits| image:: https://img.shields.io/github/commit-activity/y/searxng/searxng?color=yellow&label=commits
    :target: https://github.com/searxng/searxng/commits/master
 
 .. |weblate| image:: https://translate.codeberg.org/widgets/searxng/-/searxng/svg-badge.svg
-   :target: https://translate.codeberg.org/projects/searxng/
+   :target: https://github.com/AdilSadqi/noones-search
 
 
 Contact
